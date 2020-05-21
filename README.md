@@ -42,11 +42,11 @@ This repo contains all my work for this specialization. All the code base and im
   + Be able to implement a neural network in TensorFlow. 
 
   Code:
-  + [Week 1 - Initialization](./02_Improving_Deep_Neural_Networks/week5/Initialization/Initialization.ipynb)
-  + [Week 1 - Regularization](./02_Improving_Deep_Neural_Networks/week5/Regularization/Regularization_v2a.ipynb)
-  + [Week 1 - Gradient Checking](./02_Improving_Deep_Neural_Networks/week5/Gradient%20Checking/Gradient%20Checking%20v1.ipynb)
-  + [Week 2 - Optimization](./02_Improving_Deep_Neural_Networks/week6/Optimization_methods_v1b.ipynb)
-  + [Week 3 - TensorFlow](./02_Improving_Deep_Neural_Networks/week7/TensorFlow_Tutorial_v3b.ipynb)
+  + [Week 1 - Initialization](https://github.com/Shakzhaf/deeplearning.ai_specialization_coursera/tree/master/02_Improving_Deep_Neural_Networks/week5/Initialization)
+  + [Week 1 - Regularization](https://github.com/Shakzhaf/deeplearning.ai_specialization_coursera/tree/master/02_Improving_Deep_Neural_Networks/week5/Regularization)
+  + [Week 1 - Gradient Checking](https://github.com/Shakzhaf/deeplearning.ai_specialization_coursera/blob/master/02_Improving_Deep_Neural_Networks/week5/Gradient%20Checking/Gradient%2BChecking%2Bv1.ipynb)
+  + [Week 2 - Optimization](https://github.com/Shakzhaf/deeplearning.ai_specialization_coursera/blob/master/02_Improving_Deep_Neural_Networks/week6/Optimization_methods_v1b.ipynb)
+  + [Week 3 - TensorFlow](https://github.com/Shakzhaf/deeplearning.ai_specialization_coursera/blob/master/02_Improving_Deep_Neural_Networks/week7/TensorFlow_Tutorial_v3b.ipynb)
 
 ### Course 3: Structuring Machine Learning Projects
 
