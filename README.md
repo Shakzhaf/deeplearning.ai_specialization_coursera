@@ -70,8 +70,8 @@ This repo contains all my work for this specialization. All the code base and im
   Code:
   + [Week 1 - Convolutional Model: step by step](https://github.com/Shakzhaf/deeplearning.ai_specialization_coursera/blob/master/04_Convolutional_Neural_Networks/week1/Convolution_model_Step_by_Step_v2a.ipynb)
   + [Week 1 - Convolutional Model: application](https://github.com/Shakzhaf/deeplearning.ai_specialization_coursera/blob/master/04_Convolutional_Neural_Networks/week1/Convolution_model_Application_v1a.ipynb)
-  + [Week 2 - Keras - Tutorial - Happy House](./04_Convolutional_Neural_Networks/week2/KerasTutorial/Keras_Tutorial_v2a.ipynb)
-  + [Week 2 - Residual Networks](./04_Convolutional_Neural_Networks/week2/ResNets/Residual_Networks_v2a.ipynb)
+  + [Week 2 - Keras - Tutorial - Happy House](https://github.com/Shakzhaf/deeplearning.ai_specialization_coursera/blob/master/04_Convolutional_Neural_Networks/week2/KerasTutorial/Keras_Tutorial_v2a.ipynb)
+  + [Week 2 - Residual Networks](https://github.com/Shakzhaf/deeplearning.ai_specialization_coursera/tree/master/04_Convolutional_Neural_Networks/week2/ResNets)
   + [Week 3 - Autonomous driving application - Car detection](./04_Convolutional_Neural_Networks/week3/Car%20detection%20for%20Autonomous%20Driving/Autonomous_driving_application_Car_detection_v3a.ipynb)
   + [Week 4 - Face Recognition for the Happy House](./04_Convolutional_Neural_Networks/week4/Face%20Recognition/Face_Recognition_v3a.ipynb)
   + [Week 4 - Art Generation with Neural Style Transfer](./04_Convolutional_Neural_Networks/week4/Neural%20Style%20Transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
